@@ -1,2 +1,3 @@
 # Crack_detection_and_Building
 This is AI capstone project with deep learning on the dataset Crack detection and buildings. Dataset 
+Crack detection has vital importance for structural health monitoring and inspection. We would like to train a network to detect Cracks, we will denote the images that contain cracks as positive and images with no cracks as negative. In this lab you are going to have to download the data and study the dataset. There are two questions in this lab, including listing the path to some of the image files as well as plotting a few images. Remember the results as you will be quizzed on them.
