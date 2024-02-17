@@ -11,4 +11,6 @@ Now, you should see two folders appear in the left pane: Positive and Negative. 
 
 Important Note: There are thousands and thousands of images in each folder, so please don't attempt to double click on the folders. This may consume all of your memory and you may end up with a 50*** error. So please **DO NOT DO IT.
 
+https://www.coursera.org/learn/ai-deep-learning-capstone/home/welcome
+
 https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/images/concrete_crack_images_for_classification.zip
